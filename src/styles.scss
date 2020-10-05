@@ -1,10 +1,10 @@
-$fa-font-path: "node_modules/font-awesome/fonts";
+$fa-font-path: "../fonts";
 @import "~font-awesome/scss/font-awesome";
 
-$FontPathOpenSans: "node_modules/npm-font-open-sans/fonts";
+$FontPathOpenSans: "fonts";
 @import "~npm-font-open-sans/open-sans";
 
-$hc-icons-font-path: "node_modules/@healthcatalyst/cashmere/hcicons";
+$hc-icons-font-path: "";
 @import "~@healthcatalyst/cashmere/hcicons/hcicons";
 
 @import "~@healthcatalyst/cashmere/scss/cashmere";
