@@ -4,6 +4,7 @@
 /dist
 /tmp
 /out-tsc
+tslint-to-eslint-config.log
 # Only exists if Bazel was run
 /bazel-out
 
