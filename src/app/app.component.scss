@@ -1,0 +1,24 @@
+.container {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+
+  hc-tile {
+    flex: 1;
+    margin: 5px;
+  }
+}
+hc-chip-row {
+  margin: 0;
+}
+hc-chip {
+  border-radius: 3px;
+  border: solid gray 1px;
+}
+.field {
+  margin-bottom: 15px;
+}
+canvas {
+  border: solid gray 1px;
+  margin-bottom: 10px;
+}

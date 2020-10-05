@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "plaid-designer"
+    }
+  },
+  "defaultProject": "plaid-designer",
+  "cli": {
+    "analytics": false
+  }
 }
